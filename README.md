@@ -14,5 +14,5 @@ This project is my Final Year Project (FYP) for BS Artificial Intelligence at PA
 - Python, OpenCV, Tkinter, Ultralytics YOLOv8, DeepSORT, DepthAI SDK
 
 ## Dataset
-- [VisDrone 2019 Dataset](http://aiskyeye.com/)
+(https://datasetninja.com/vis-drone-2019-det)
 
